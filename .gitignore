@@ -1,0 +1,6 @@
+*.suo
+Debug/
+*.opendb
+*.db
+WL_NYBox/IndicatorInterfaceUnit.h
+WL_NYBox/TechnicalFunctions.h

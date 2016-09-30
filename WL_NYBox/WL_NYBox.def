@@ -1,0 +1,7 @@
+LIBRARY WL_NYBox
+
+EXPORTS Init
+	Calculate
+	ReplaceStr
+	IntrfProcsRec
+	OnParamsChange
